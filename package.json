@@ -4,11 +4,11 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "app.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marcorosati/nodejs-helloworld.git"
+    "url": "https://github.com/marcorosati/nodejs-helloworld.git"
   },
   "author": "",
   "license": "ISC",
